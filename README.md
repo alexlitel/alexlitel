@@ -2,11 +2,11 @@
 
 I'm a software engineer in Los Angeles looking for a new full stack or frontend role.
 
-[![Gmail Badge](https://img.shields.io/badge/-alexlitel%20AT%20gmail%20DOT%20com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexlitelATgmailDOTcom)](mailto:alexlitelATgmailDOTcom) [![Linkedin Badge](https://img.shields.io/badge/-alexlitel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexlitel/)](https://www.linkedin.com/in/alexlitel/) [![StackOverflow Badge](https://img.shields.io/badge/-litel-red?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5149381/litel/)](https://stackoverflow.com/users/5149381/litel) 
-
 ## Skills
 
 JavaScript, TypeScript, React, Node.js, GraphQL / REST APIs, Apollo, Redux, SCSS, CSS, PostCSS, packages, NPM, Python, Django, microservices, AWS, Serverless, Flask, PHP
+
+[![Gmail Badge](https://img.shields.io/badge/-alexlitel%20AT%20gmail%20DOT%20com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexlitelATgmailDOTcom)](mailto:alexlitelATgmailDOTcom) [![Linkedin Badge](https://img.shields.io/badge/-alexlitel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexlitel/)](https://www.linkedin.com/in/alexlitel/) [![StackOverflow Badge](https://img.shields.io/badge/-litel-red?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5149381/litel/)](https://stackoverflow.com/users/5149381/litel) 
 
 <!--
 **alexlitel/alexlitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
