@@ -1,7 +1,6 @@
 #### Hi there, I'm Alex 👋
 
-I'm a software engineer in Los Angeles looking for a new full stack or frontend role.
-
+I'm a software engineer in Los Angeles.
 #### Skills
 
 JavaScript, TypeScript, React, Node.js, GraphQL / REST APIs, Apollo, Redux, SCSS, CSS, PostCSS, packages, NPM, Python, Django, microservices, AWS, Serverless, Flask, PHP
