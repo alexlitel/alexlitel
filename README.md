@@ -3,7 +3,7 @@
 I'm a software engineer in Los Angeles.
 #### Skills
 
-JavaScript, TypeScript, React, Node.js, GraphQL / REST APIs, Apollo, Redux, SCSS, CSS, PostCSS, packages, NPM, Python, Django, microservices, AWS, Serverless, Flask, PHP
+JavaScript, TypeScript, React, Node.js, GraphQL / REST APIs, Apollo, Redux, SCSS, CSS, PostCSS, packages, NPM, Python, Django, microservices, AWS, Serverless, SQL, RethinkDB, Postgres, ElasticSearch, Flask, PHP
 
 #### Links
 
