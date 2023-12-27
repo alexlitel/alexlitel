@@ -8,5 +8,4 @@ JavaScript, TypeScript, React, Node.js, GraphQL / REST APIs, Apollo, Redux, SCSS
 #### Links
 
 [Email](mailto:alexlitelATgmailDOTcom)<br />
-[LinkedIn](https://www.linkedin.com/in/alexlitel)<br />
-[Stack Overflow](https://stackoverflow.com/users/5149381/litel)
+[LinkedIn](https://www.linkedin.com/in/alexlitel)
